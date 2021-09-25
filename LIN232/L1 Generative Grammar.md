@@ -1,7 +1,5 @@
 # L1 Generative Grammar
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
+
 Created: September 15, 2021 1:25 PM
 
 - The customers hated that the rutabaga cheesecake tasted like meat cookies.
@@ -13,6 +11,9 @@ vs.
 "Your experience underdetermines your knowledge." -> You know more than you experience
 
 ## Non-errors in child language
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+
   a. Swap the first two words around. \
   b. swap the first verb with the first noun phrase \
   c. swap the subject and the verbal element after it \
@@ -21,7 +22,7 @@ e.g. "The woman who is singing is happy." \
   A. *Woman the who is singing is happy? \
   B. *Is the woman who singing is happy? \
   C. Is the woman who is singing happy?\
-
+</style>
   Children don't even bother with the simpler rule. Language syntax rules don't do those things.
   The correct rule is structure dependent: (we'll draw trees)
 
