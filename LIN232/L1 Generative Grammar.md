@@ -93,7 +93,7 @@ Anaphors (nouns like himself, herself) are pronouns too.
 
 *Valency*: argument structure; the number of arguments a particular predicate requires.
 
-![alt text](https://github.com/[avinight]/[University-of-Toronto-Notes]/blob/[main]/Screenshot 2021-09-15 234448.png?raw=true)
+![alt text](https://github.com/avinight/University-of-Toronto-Notes/blob/main/Screenshot 2021-09-15 234448.png?raw=true)
 
 <div style="page-break-after: always;"></div>
 
