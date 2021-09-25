@@ -100,7 +100,7 @@ Anaphors (nouns like himself, herself) are pronouns too.
 
 ## Categories
 - **Distinguishing environment**: A position in which only members of one class may grammatically appear.
-- **Distribution**: Words have the same distribution if they can appear in the same <u>environment</u>
+- **Distribution**: Words have the same distribution if they can appear in the same <ins>environment</ins>
 
 ## L1 Recap
 Why is adverb the worst possible name?
