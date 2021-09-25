@@ -1,5 +1,7 @@
 # L1 Generative Grammar
-
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
 Created: September 15, 2021 1:25 PM
 
 - The customers hated that the rutabaga cheesecake tasted like meat cookies.
