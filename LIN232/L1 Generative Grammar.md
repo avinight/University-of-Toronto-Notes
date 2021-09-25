@@ -11,8 +11,8 @@ vs.
 "Your experience underdetermines your knowledge." -> You know more than you experience
 
 ## Non-errors in child language
-  a. Swap the first two words around.
-  b. swap the first verb with the first noun phrase
+  a. Swap the first two words around. \
+  b. swap the first verb with the first noun phrase \
   c. swap the subject and the verbal element after it
 
 e.g. "The woman who is singing is happy."
